@@ -809,5 +809,23 @@ export const countries: Record<string, Country> = {
         code: "CG",
         flag: "🇨🇬",
         phoneCode: "+242",
-    },    
+    },
+    "KHM": {
+        name: "Cambodia",
+        code: "KHM",
+        flag: "🇰🇭",
+        phoneCode: "+855",
+    },
+    "MV": {
+        name: "Maldives",
+        code: "MV",
+        flag: "🇲🇻",
+        phoneCode: "+960",
+    },
+    "MN": {
+        name: "Mongolia",
+        code: "MN",
+        flag: "🇲🇳",
+        phoneCode: "+976",
+    },        
 };  
